@@ -1,4 +1,4 @@
-# Unified-Handshaking-Gateway
+# Unified Handshaking Gateway
 
 The Unified Handshaking Gateway is capable of acting as an intermediary for the following protocols: <br />
 
