@@ -20,3 +20,4 @@ The Unified Handshaking Gateway is capable of acting as an intermediary for the 
 - RFC 6241
 - BSIP
 - RFC3501
+- [SSP](https://www.sparkpost.com/blog/sparkpost-afire-ssp/)
