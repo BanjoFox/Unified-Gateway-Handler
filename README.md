@@ -21,3 +21,8 @@ The Unified Handshaking Gateway is capable of acting as an intermediary for the 
 - BSIP
 - RFC3501
 - [SSP](https://www.sparkpost.com/blog/sparkpost-afire-ssp/)
+- Semaphore
+- SandwhichLinker
+- ReflectiveMirror/BlinkenLight
+- MoresCode
+- MorseCode
